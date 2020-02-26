@@ -2,5 +2,5 @@
 This is the final project of a course on machine learning from the University of Paris. 
 It is a joint project between Mrs Fernanda Tchouacheu and myself. 
 
-The first exercise is an image classification problem and contains two documents: a docx and a jupyter notebook.  
-The second exercise is about an analysis of a data set on the evolution of suicide rate and contains two documents: a docx and a jupyter notebook. 
+__The first exercise__ is an image classification problem and contains two documents: a docx and a jupyter notebook.  
+__The second exercise__ is about an analysis of a data set on the evolution of suicide rate and contains two documents: a docx and a jupyter notebook. 
